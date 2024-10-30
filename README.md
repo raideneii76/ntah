@@ -55,7 +55,7 @@ global.author = "devorsixcore"
 <br>
 
 ``` csharp
-> git clone https://github.com/devorsixcore/Base-Bot-Simple"
+> git clone https://github.com/devorsixcore/Base-Bot-Simple
 > cd Base-Bot-Simple
 > npm i
 > npm start
