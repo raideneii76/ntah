@@ -1,7 +1,7 @@
 {
-  "name": "Anonymously",
+  "name": "Devor6core-Base",
   "version": "1.0.0",
-  "description": "Abis bah kredit ku",
+  "description": "Simple Base Bot Whatsapp",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
